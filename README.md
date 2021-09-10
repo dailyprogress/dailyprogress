@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, ansible
 - 💞️ I’m looking to collaborate on ansible, kubernetes and Linux 
 - (●'◡'●)╰(*°▽°*)╯
-
+👀 let's add more : openshift, container images
 
 <!---
 dailyprogress/dailyprogress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
