@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dailyprogress
 - 👀 I’m interested in git, technical writing, and coding 
 - 🌱 I’m currently learning python, ansible
-- 💞️ I’m looking to collaborate on ansible
+- 💞️ I’m looking to collaborate on ansible, kubernetes and Linux 
+- (●'◡'●)╰(*°▽°*)╯
 
 
 <!---
